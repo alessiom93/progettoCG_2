@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alemo/OneDrive/Documenti/Unreal Projects/CG_Project/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/alemo/OneDrive/Documenti/Unreal Projects/CG_Project/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode1.uasset",
+				"C:/Users/alemo/OneDrive/Documenti/Unreal Projects/CG_Project/Content/Levels/Level_1.umap"
+			]
+		}
+	]
+}
